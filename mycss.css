@@ -1,0 +1,107 @@
+html {
+	font-family: sans-serif;
+}
+
+body {
+	background-color: #dbdbdb;
+}
+
+section {
+  margin-bottom: 3em;
+  position: relative;
+}
+
+h1 {
+  margin-bottom: 0.25em;
+}
+
+h3 {
+  margin-top: 0;
+  margin-bottom: 1em;
+}
+
+#res {
+	text-align: center;
+	color: #4c4f4c;
+}
+
+.container {
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+.contacts {
+	margin-top: 7em;
+	margin-bottom: 2em;
+}
+
+.option_c {
+	min-width: 90px;
+}
+
+.phone_img {
+	width: 17px;
+	height: 17px;
+	margin-right: 5px;
+}
+
+.email_img {
+	width: 17px;
+	height: 17px;
+	margin-right: 5px;
+}
+
+.contact {
+	display: flex;
+}
+
+.foto {
+	position: absolute;
+	right: 5px;
+	top: 0;
+}
+
+.myfoto {
+	width: 200px;
+	height: 200px;
+	border-radius: 10px;
+	box-shadow: 7px 7px 10px 5px #202020;
+}
+
+.langs {
+	margin-top: 2em;
+	font-weight: bold;
+}
+
+
+
+table {
+	border-collapse: collapse;
+	border: 3px solid grey;
+	width: 800px;
+	background: linear-gradient(to top left, powderblue, pink);
+
+
+}
+
+th {
+	border: 3px solid grey;
+	color: #1c1f1b;
+	font-size: 1.3em;
+}
+
+td {
+	border: 3px solid grey;
+}
+
+
+table td:first-child {
+	text-align: center;
+}
+
+table td:last-child {
+	text-align: center;
+}
+
+
+
